@@ -31,7 +31,7 @@ return {
                     'When you use a {C:planet}Planet{}',
                     'or {C:tarot}Tarot{} card,',
                     'create two copies',
-                    '(once per Blind)'
+                    '(once per Ante)'
                 },
                 unlock = {
                     'Unlocked by default.',

@@ -86,7 +86,7 @@ return {
                 name = 'Echo Form',
                 text = {
                     'The {C:attention}first{} scoring card',
-                    'each Blind gains a permanent',
+                    'each ante gains a permanent',
                     '{C:attention}retrigger{}',
                     '({C:red}self-destructs{} after {C:attention}#1#{} uses)'
                 },
